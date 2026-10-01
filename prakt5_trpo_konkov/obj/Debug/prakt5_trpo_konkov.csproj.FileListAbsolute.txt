@@ -1,0 +1,7 @@
+C:\files\prakt5_trpo_konkov\bin\Debug\prakt5_trpo_konkov.exe.config
+C:\files\prakt5_trpo_konkov\bin\Debug\prakt5_trpo_konkov.exe
+C:\files\prakt5_trpo_konkov\bin\Debug\prakt5_trpo_konkov.pdb
+C:\files\prakt5_trpo_konkov\obj\Debug\prakt5_trpo_konkov.csproj.AssemblyReference.cache
+C:\files\prakt5_trpo_konkov\obj\Debug\prakt5_trpo_konkov.csproj.CoreCompileInputs.cache
+C:\files\prakt5_trpo_konkov\obj\Debug\prakt5_trpo_konkov.exe
+C:\files\prakt5_trpo_konkov\obj\Debug\prakt5_trpo_konkov.pdb
